@@ -1,0 +1,19 @@
+﻿  CornerDetection.cpp
+C:\Users\aeren\OneDrive\Masaüstü\Object_Proje\Object_Proje\CornerDetection.cpp(37,55): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+C:\Users\aeren\OneDrive\Masaüstü\Object_Proje\Object_Proje\CornerDetection.cpp(37,55): warning C4244:         with
+C:\Users\aeren\OneDrive\Masaüstü\Object_Proje\Object_Proje\CornerDetection.cpp(37,55): warning C4244:         [
+C:\Users\aeren\OneDrive\Masaüstü\Object_Proje\Object_Proje\CornerDetection.cpp(37,55): warning C4244:             _Tp=float
+C:\Users\aeren\OneDrive\Masaüstü\Object_Proje\Object_Proje\CornerDetection.cpp(37,55): warning C4244:         ]
+C:\Users\aeren\OneDrive\Masaüstü\Object_Proje\Object_Proje\CornerDetection.cpp(37,52): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+C:\Users\aeren\OneDrive\Masaüstü\Object_Proje\Object_Proje\CornerDetection.cpp(37,52): warning C4244:         with
+C:\Users\aeren\OneDrive\Masaüstü\Object_Proje\Object_Proje\CornerDetection.cpp(37,52): warning C4244:         [
+C:\Users\aeren\OneDrive\Masaüstü\Object_Proje\Object_Proje\CornerDetection.cpp(37,52): warning C4244:             _Tp=float
+C:\Users\aeren\OneDrive\Masaüstü\Object_Proje\Object_Proje\CornerDetection.cpp(37,52): warning C4244:         ]
+  Detection.cpp
+  LineDetection.cpp
+  main.cpp
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 410 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Object_Proje.vcxproj -> C:\Users\aeren\OneDrive\Masaüstü\Object_Proje\x64\Release\Object_Proje.exe
