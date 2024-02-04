@@ -1,4 +1,6 @@
 # Feature-Detection-of-a-RGB-Image-
+This project focuses on implementing a robust feature detection system for RGB images using a class hierarchy. Leveraging the power of OpenCV for image manipulation, the project involves the implementation of both line and corner detection algorithms. The goal is to create a modular structure with a well-defined class design to handle common processes and specific feature detection tasks.
+
 ## Images
 ![Ekran görüntüsü 2024-01-12 234925](https://github.com/Aherte/Feature-Detection-of-a-RGB-Image-/assets/55800601/ff2d7a67-692a-45c2-9c98-87df128180f3)
 ![Ekran görüntüsü 2024-01-12 234621](https://github.com/Aherte/Feature-Detection-of-a-RGB-Image-/assets/55800601/2b7dc39a-da2b-472e-825b-f9995f2755f4)
